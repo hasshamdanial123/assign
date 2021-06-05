@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: hp
+Build-Jdk: 15.0.2
+Implementation-Title: This is Spring rest API for Post and Receive messa
+ ge from AWS Simple Queue Service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.techtlak.sqs
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBoot-AWS-SQS-Consumer-Producer-Code
+Created-By: Maven Integration for Eclipse
+
